@@ -1,0 +1,1 @@
+ Exploratory data analysis on coronavirus data using Python, Pandas, and NumPy and predicted virus spread over the next 10 days using machine learning algorithms, including Linear Regression and SVM Kernel Support Vector Machine.
